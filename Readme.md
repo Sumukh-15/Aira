@@ -107,7 +107,7 @@ In case your mic doesn't work or you prefer typing, AIRA provides:
 ### 🔗 1. Clone the Repo
 
 ```bash
-git clone https://github.com/<your-username>/aira.git
+git clone https://github.com/Sumukh-15/aira.git
 cd aira
 ```
 
