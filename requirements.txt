@@ -1,0 +1,10 @@
+streamlit
+sounddevice
+vosk
+pyttsx3
+numpy
+deep-translator
+langchain
+langchain-community
+langchain-core
+langchain-ollama
