@@ -149,7 +149,7 @@ streamlit run main.py
 
 ---
 
-🌐 Language Support
+### 🌐 Language Support
 Your voice input can be in:
 
 Language	Code
